@@ -4,7 +4,7 @@ Data Visualisation using Plotly and Streamlit
 
 It is a project on dataset visualisation. its made using streamlit and python and you can visualise the complete dataset along with fiktering of data for your use.
 
-[To access the website ,click here](https://harsh23kashyap-placement-record-visualiser-dashboard-i2c84v.streamlitapp.com/)
+[To access the website ,click here](https://harsh23kashyap-company-data-visualiser-dashboard-73nzej.streamlitapp.com/)
 
 
 Attaching Screenshots for basic understanding of how the projects looks and works
